@@ -7,3 +7,4 @@ Ich bin ein feierwütiger Git-Enthusiast, der Tag und Nacht an den Git-Aufgaben 
 * hasse Blumenkohl
 The Hitchhiker's Guide to the Galaxy:
 > DON'T PANIC
+<img src="https://commons.wikimedia.org/wiki/File:Towelday-Innsbruck.jpg#/media/File:Towelday-Innsbruck.jpg"/>
