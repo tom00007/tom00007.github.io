@@ -5,3 +5,5 @@ Ich bin ein feierwütiger Git-Enthusiast, der Tag und Nacht an den Git-Aufgaben 
 * mag Zwiebelrostbraten
 * mag Paella
 * hasse Blumenkohl
+The Hitchhiker's Guide to the Galaxy:
+> DON'T PANIC
